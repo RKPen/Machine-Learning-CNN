@@ -1,4 +1,3 @@
----
 
 # Machine Learning Project: Convolutional Neural Networks and Transfer Learning
 
@@ -55,4 +54,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 This project is licensed under the MIT License.
 
----
