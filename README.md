@@ -1,5 +1,3 @@
-Sure, here's the formatted README that you can copy and paste:
-
 ---
 
 # Machine Learning Project: Convolutional Neural Networks and Transfer Learning
@@ -58,5 +56,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the MIT License.
 
 ---
-
-Feel free to adjust any section as needed!
